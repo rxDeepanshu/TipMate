@@ -1,0 +1,1 @@
+TipMate is a responsive web application that makes calculating tips and splitting bills simple and fast. Users can enter the bill amount, select a tip percentage, and choose the number of people to calculate each person's share. Built with HTML, CSS, and JavaScript, it provides a simple interface and instant results without any extra libraries.
